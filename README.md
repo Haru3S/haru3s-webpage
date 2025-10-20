@@ -1,8 +1,20 @@
+[comment]: # (Header)
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haru3S/haru3s-webpage/refs/heads/release/.github/assets/svg/branding/H3S%20Logo%20Solid_White.svg" height="100">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haru3S/AstraHUD/03c4a63ce71b215dd3b6239eb8763739c1508162/.github/assets/svg/branding/H3S%20Logo%20Solid_Black.svg" height="100">
+  <img alt="Fallback image description" src="https://github.com/Haru3S/AstraHUD/blob/release/.github/assets/svg/branding/H3S%20Logo%20Solid_White.svg" height="100"/>
+</picture>
+</div>
+
 <h3 align="center">haru3s-webpage</h3>
 
 <h6 align="center">
   ˈhɑrɹu ˈθɹi z wɛbpɪdʒ
 </h6>
+
+[comment]: # (Shield Badges)
 
 <p align="center">
   <a href="https://github.com/Haru3S/haru3s-webpage/stargazers">
@@ -16,8 +28,10 @@
   </a>
 </p>
 
-<p align="center">
+[comment]: # (Body Text)
 
-**haru3s-webpage** is the github repo hosting my website.
+> [!NOTE]
+> GitHub Repo for **haru3s-webpage**.
 
-</p>
+Hello I'm Rayna with the handle `@haru3s` or `@haru_3s` depending on the platform!
+
