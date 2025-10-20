@@ -35,5 +35,7 @@
 
 Hello I'm Rayna with the handle `@haru3s` or `@haru_3s` depending on the platform!
 
+### ✨ Artwork
+
 <img src="https://github.com/Haru3S/haru3s-webpage/blob/release/.github/assets/images/Transgender%20A%20Climate%20Change_Organic.webp?raw=true"/>
 
