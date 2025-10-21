@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { ParallaxProvider } from "react-scroll-parallax";
 import "./globals.css";
 
 const geistSans = Geist({
